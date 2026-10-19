@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {"msg": "test 1", "media": ""}
+  ],
+  "targets": [
+    {"target": "https://www.facebook.com/groups/893017327375003/"},
+    {"target": "https://www.facebook.com/groups/485182461644890/"},
+    {"target": "https://www.facebook.com/groups/190399618837826/"},
+    {"target": "https://www.facebook.com/groups/45424712299/"},
+    {"target": "https://www.facebook.com/groups/1178450792964941/"},
+    {"target": "https://www.facebook.com/groups/422412617276724/"},
+    {"target": "https://www.facebook.com/groups/1008703576924354/"},
+    {"target": "https://www.facebook.com/groups/269050329962105/"}
+  ]
+}

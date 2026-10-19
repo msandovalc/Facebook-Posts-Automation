@@ -1,0 +1,1 @@
+"""Declarative locators. One file per page/area."""
